@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/liladhen/npanel/main/NPanel.png">
+<img align="center" src="https://raw.githubusercontent.com/liladhen/npanel/main/NPanel.png" width="300px">
 <p align="center">Desc</p>
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 React</a>
