@@ -1,2 +1,2 @@
-# npanel
+# Nitro Panel
 Web hosting control panel.
